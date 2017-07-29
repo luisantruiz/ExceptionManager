@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExceptionManager</id>
+    <version>1.0.0</version>
+    <title>Exception Manager</title>
+    <authors>luisantruiz</authors>
+    <owners>luisantruiz</owners>
+    <licenseUrl>https://raw.githubusercontent.com/luisantruiz/ExceptionManager/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/luisantruiz/ExceptionManager</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/luisantruiz/ExceptionManager/master/ExceptionManager.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ExceptionManager allows to handle .NET Exceptions and their Messages in a easier way. </description>
+    <releaseNotes>Upgraded from ExceptionMsgConcatener nuget. This is the new nuget package called ExceptionManager which includes some more new features like the ability to get the deepest Exception taking in consideration the InnerException of all of the InnerExceptions that can exist</releaseNotes>
+    <copyright>Copyright 2016 MIT</copyright>
+    <tags>exception, message, concatener, exception manager, manager, exception message, exception concatener</tags>
+  </metadata>
+</package>
