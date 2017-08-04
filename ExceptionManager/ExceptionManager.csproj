@@ -7,9 +7,9 @@
     <ProjectGuid>{55019733-3CB6-4CAC-976F-969EEE496CE0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExceptionMsgConcatener</RootNamespace>
-    <AssemblyName>ExceptionMsgConcatener</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <RootNamespace>ExceptionManager</RootNamespace>
+    <AssemblyName>ExceptionManager</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
